@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Plugins - Site Reviews - Stable (latest release)\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-12 12:55+0100\n"
+"PO-Revision-Date: 2020-11-12 12:59+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -1228,7 +1228,7 @@ msgstr "Uw beoordeling"
 
 #: config/forms/review-form.php:9
 msgid "Title of your review"
-msgstr "Titel van je beoordeling"
+msgstr "Titel van uw beoordeling"
 
 #: config/forms/review-form.php:10
 msgid "Summarize your review or highlight an interesting detail"
